@@ -2,4 +2,4 @@ files:
   - source: src/i18n/resources/en.json
     translation: src/i18n/resources/%two_letters_code%.json
 bundles:
-  - 74
+  - 80
